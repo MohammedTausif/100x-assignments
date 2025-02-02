@@ -38,7 +38,7 @@ import { NextResponse } from "next/server";
         "name": "Mark Zuckerberg",
         "password": "123456",
         "About": "Founder of Facebook & CEO of Meta",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mark_Zuckerberg_F8_2019_Keynote.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/440px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
         "wiki": "https://en.wikipedia.org/wiki/Mark_Zuckerberg"
     },
     {
@@ -46,7 +46,7 @@ import { NextResponse } from "next/server";
         "name": "Jeff Bezos",
         "password": "123456",
         "About": "Founder of Amazon",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Jeff_Bezos%27_iconic_smile%21.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg/440px-Jeff_Bezos_visits_LAAFB_SMC_%283908618%29_%28cropped%29.jpeg",
         "wiki": "https://en.wikipedia.org/wiki/Jeff_Bezos"
     },
     {

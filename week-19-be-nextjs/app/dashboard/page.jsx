@@ -23,9 +23,9 @@ export default function Dashboard() {
     }, []);
 
     return (
-        <div>
-            <h2>User List</h2>
-            <div className="flex flex-wrap gap-8">
+        <div className=" h-screen w-full bg-gray-100">
+            <h2 className="flex justify-center p-6 font-semibold text-2xl hover:text-gray-600">Users Profile</h2>
+            <div className="flex flex-wrap gap-8 justify-evenly">
                 {users.map(user => (<UsersCard data={user} key={user.id}></UsersCard>))
                 }
             </div>
