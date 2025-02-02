@@ -21,7 +21,6 @@ Official Documentation: [Next.js Docs](https://nextjs.org/docs)
 
 1. **Create a new Next.js app**:
    ```bash
-   npx create-next-app@latest my-next-app
-
+   npx create-next-app@latest 
  **Screenshot of how to bootstrap a empty NextJs Project** : (https://github.com/MohammedTausif/100xdevs-assignments/blob/main/NextJs-week-18.2/next-app-intro/public/Screenshot%202025-01-02%20at%208.10.18%E2%80%AFPM.png)
  
