@@ -1,4 +1,1 @@
-x =9 
-console.log(x)
-y=10
-console.log(y)
+// week-20 code here 
